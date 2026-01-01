@@ -35,7 +35,7 @@ and provide actionable insights to improve customer retention.
 - Review pricing strategies for high-charge customer segments
 
 ## Dashboard Preview
-![![Screenshot_20251213_204924_Excel](https://github.com/user-attachments/assets/969fb26d-f930-4b17-a3b4-cf1ebec62f76)
+![Telecom Churn Dashboard](![Screenshot_20251213_204924_Excel](https://github.com/user-attachments/assets/70a73e46-9460-48a6-ace3-e0ac668b8015))
 
 ## Analyst Notes & Considerations
 - The analysis assumes customer behavior patterns remain consistent over time.
