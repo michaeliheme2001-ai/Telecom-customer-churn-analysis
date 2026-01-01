@@ -23,6 +23,7 @@ and provide actionable insights to improve customer retention.
 - Identification of high-risk customer segments
 - Relationship between charges and churn behavior
 
+
 ## Key Insights
 - Customers with less than 6 months tenure showed the highest churn rates
 - Higher monthly charges were associated with increased churn
@@ -34,7 +35,7 @@ and provide actionable insights to improve customer retention.
 - Review pricing strategies for high-charge customer segments
 
 ## Dashboard Preview
-![Telecom Churn Dashboard](visuals/dashboard.png)
+![![Screenshot_20251213_204924_Excel](https://github.com/user-attachments/assets/969fb26d-f930-4b17-a3b4-cf1ebec62f76)
 
 ## Analyst Notes & Considerations
 - The analysis assumes customer behavior patterns remain consistent over time.
